@@ -151,7 +151,7 @@ comments for an existing issue.
 - **Promptly address any CI failures**. If your pull request fails to build or
   pass tests, please push another commit to fix it.
 
-- **Use [`pre-commit`](pre-commit) whenever possible**. We want to provide high
+- **Use [`pre-commit`][pre-commit] whenever possible**. We want to provide high
   quality code. For this reason some of our repositories are using several
   "pre-commit hooks". Please check your code before you will create
   pull-requests. See [pre-commit documentation][pre-commit] for further
