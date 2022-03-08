@@ -12,8 +12,6 @@ community health files.
 
 ## Template repositories
 
-- [`shiny-template`](https://github.com/Appsilon/shiny-template) for R/Shiny
-  applications
 - [`ansible-role-template`](https://github.com/Appsilon/ansible-role-template)
   for Ansible roles
 - [`terraform-module-template`](https://github.com/Appsilon/terraform-module-template)
