@@ -1,4 +1,4 @@
-*Have you read the [Contributing Guidelines](https://github.com/Appsilon/.github/blob/master/CONTRIBUTING.md)?*
+*Have you read the [Contributing Guidelines](https://github.com/Appsilon/.github/blob/main/CONTRIBUTING.md)?*
 
 Issue #
 
