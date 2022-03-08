@@ -28,4 +28,4 @@ Please seek support in the following ways:
    what you have already attempted to solve the problem. Provide code samples,
    but **do not** attach your entire project for someone else to debug. Review
    our [contributing
-   guidelines](https://github.com/Appsilon/.github/blob/master/CONTRIBUTING.md).
+   guidelines](https://github.com/Appsilon/.github/blob/main/CONTRIBUTING.md).
