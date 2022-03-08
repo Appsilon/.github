@@ -2,6 +2,6 @@
 
 Issue #
 
-## Describe your changes
+## Changes description
 
 *Clearly and concisely describe what's in this pull request. Include screenshots, if necessary.*
