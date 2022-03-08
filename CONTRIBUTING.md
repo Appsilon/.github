@@ -84,7 +84,7 @@ are welcome to submit a pull request to help!
   requests first. If you find your feature (or one very similar) previously
   requested, comment on that issue.
 
-- **Fully complete the provided issue template.** The feature request template
+- **Fully complete the provided feature request template.** The feature request template
   asks for all necessary information for us to begin a productive conversation.
 
 - Be precise about the proposed outcome of the feature and how it relates to
