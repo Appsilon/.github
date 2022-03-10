@@ -166,11 +166,15 @@ Depending on the project we tend to use various approaches for writing good
 commit messages. See [this](https://chris.beams.io/posts/git-commit/) as an
 example of a "good" commits message. We also tend to use [Conventional
 Commits][conventional], with a scope detailing the area of the change being
-made.
+made. There is not strong requirement on what approach should be used. Just as
+with code style, - consistency is the most important. Try following the
+existing repository commit message format.
+
+Regardless of chosen approach, a role of thumb would be to:
 
 1. Separate subject from body with a blank line
 2. Limit the subject line to 50 characters
-3. Capitalize the subject line
+3. (Optionally) Capitalize the subject line
 4. Do not end the subject line with a period
 5. Use the imperative mood in the subject line (example: "Fix networking issue")
 6. Wrap the body at about 72 characters
