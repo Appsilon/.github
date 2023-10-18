@@ -10,6 +10,7 @@ We are a global leader in R and Shiny, which are used by companies of all sizes 
 
 Appsilon actively contributes to the open source R and Shiny communities by developing numerous packages that make R Shiny apps more beautiful, dynamic, and secure. Our packages have been downloaded 275,000+ times. Check out our public repositories hosted in our GitHub organization.
 
-##### Feel free to explore our [recruitment repository](https://github.com/Appsilon/recruitment).
-##### If you haven't yet, please be sure to review our [Code of Conduct](https://appsilon.com/code-of-conduct)
+**Feel free to explore our [recruitment repository](https://github.com/Appsilon/recruitment).**
+
+**If you haven't yet, please be sure to review our [Code of Conduct](https://appsilon.com/code-of-conduct)**
 
