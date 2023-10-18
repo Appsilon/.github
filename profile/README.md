@@ -4,7 +4,7 @@
 
 We're an ambitious and fast-growing software house and consultancy specializing in action support systems and machine learning with Fortune 500 clients across the globe. We are a unique company inspired by a mission to improve our society and environment. 
 
-Appsilon is a global leader in R and Shiny, which are used by companies of all sizes to build data applications. When companies run into difficult problems or want to initiate large-scale enterprise projects, they come to Appsilon.
+Appsilon is a global leader in R and Shiny, which are used by companies of all sizes to build data applications. When companies run into difficult problems or want to initiate large-scale enterprise projects, they come to us.
 
 ## Open Source
 
