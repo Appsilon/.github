@@ -7,10 +7,12 @@ We're an ambitious and fast-growing software house and consultancy specializing 
 
 Appsilon is a global leader in R and Shiny, which are used by companies of all sizes to build data applications. When companies run into difficult problems or want to initiate large-scale enterprise projects, they come to us.
 
+- **Feel free to explore our [recruitment repository](https://github.com/Appsilon/recruitment).**
+- **If you haven't yet, please be sure to review our [Code of Conduct](https://appsilon.com/code-of-conduct)**
+
 ### Open Source 🔓
 Appsilon actively contributes to the open source R and Shiny communities by developing numerous packages that make R Shiny apps more beautiful, dynamic, and secure. Check out our public repositories hosted in our GitHub organization.
 Our packages have been downloaded 275,000+ times so far.
 
-- **Feel free to explore our [recruitment repository](https://github.com/Appsilon/recruitment).**
-- **If you haven't yet, please be sure to review our [Code of Conduct](https://appsilon.com/code-of-conduct)**
+
 
