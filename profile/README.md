@@ -1,7 +1,7 @@
 # Welcome to [Appsilon!](https://appsilon.com) 
 
- ![image](https://uploads-ssl.webflow.com/646b5ba4b9e3c779d4c36534/652f80120bb4d9041f471177_Banner_What_Mark.jpg)
-
+ 
+![image](https://github.com/Appsilon/recruitment/blob/main/IMAGES/Screenshot%202023-10-12%20at%2012.24.27.png)
 ###  Who are we? 🧐
 We're an ambitious and fast-growing software house and consultancy specializing in action support systems and machine learning with Fortune 500 clients across the globe. We are a unique company inspired by a mission to improve our society and environment. 
 
