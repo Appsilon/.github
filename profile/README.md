@@ -28,7 +28,7 @@ Are you working on a project that could be accelerated by the application of dat
 We are constantly looking for new initiatives and partners to collaborate with for the good of the planet.
 
 
-**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Email us" width="135" height="45">](mailto:hello@appsilon.com) and make an impact!**
+**[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Email us" width="135" height="45">](https://appsilon.com/#contact) and make an impact!**
 
 
 
