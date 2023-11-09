@@ -1,4 +1,4 @@
-# [Welcome to Appsilon!](https://appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=welcome) 
+# Welcome to [Appsilon!](https://appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=welcome) 
 
  
 ![image](https://github.com/Appsilon/recruitment/blob/main/IMAGES/Screenshot%202023-10-12%20at%2012.24.27.png)
@@ -10,7 +10,7 @@ Appsilon is a global leader in R and Shiny, which are used by companies of all s
 - **Feel free to explore our [recruitment repository](https://github.com/Appsilon/recruitment).**
 - **If you haven't yet, please be sure to review our [Code of Conduct](https://appsilon.com/code-of-conduct?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=code-of-conduct)**
 
-## [Open Source](https://appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=welcome) 🔓
+## [Open Source](https://appsilon.com/tag/open-source/?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=open-source) 🔓
 Appsilon actively contributes to the open source R and Shiny communities by developing numerous packages that make R Shiny apps more beautiful, dynamic, and secure. Check out our public repositories hosted in our GitHub organization.
 Our packages have been downloaded 275,000+ times so far.
 
