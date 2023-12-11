@@ -1,9 +1,9 @@
-# Welcome to [Appsilon!](https://appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=welcome) 
+# Welcome to [Appsilon!](https://appsilon.com/?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=welcome)
 
- 
+
 ![image](https://github.com/Appsilon/recruitment/blob/main/IMAGES/Screenshot%202023-10-12%20at%2012.24.27.png)
 ##  Who are we? 🧐
-We're an ambitious and fast-growing software house and consultancy specializing in action support systems and machine learning with Fortune 500 clients across the globe. We are a unique company inspired by a mission to improve our society and environment. 
+We're an ambitious and fast-growing software house and consultancy specializing in action support systems and machine learning with Fortune 500 clients across the globe. We are a unique company inspired by a mission to improve our society and environment.
 
 Appsilon is a global leader in R and Shiny, which are used by companies of all sizes to build data applications. When companies run into difficult problems or want to initiate large-scale enterprise projects, they come to us.
 
@@ -29,8 +29,3 @@ We are constantly looking for new initiatives and partners to collaborate with f
 
 
 **[<img src="https://uploads-ssl.webflow.com/6525256482c9e9a06c7a9d3c/6537c50d52bdf76728d5e47d_btn_3.png" alt="Email us" width="135" height="45">](https://appsilon.com/#contact) and make an impact!**
-
-
-
-
-
