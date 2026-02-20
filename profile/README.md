@@ -5,6 +5,7 @@
 ##  Appsilon | Open Source, Done Right for Pharma 🧬
 We are a technology partner for life sciences companies, delivering open-source AI, R and Python solutions, cloud-based statistical computing environments, and SAS-to-Open Source migration to accelerate drug development in regulated settings.
 
+- **Our [homepage](https://www.appsilon.com/)**
 - **Feel free to explore our [recruitment repository](https://github.com/Appsilon/recruitment).**
 - **If you haven't yet, please be sure to review our [Code of Conduct](https://appsilon.com/code-of-conduct?utm_medium=referral&utm_source=github&utm_campaign=home&utm_content=code-of-conduct)**
 
